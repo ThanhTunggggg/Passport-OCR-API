@@ -21,7 +21,7 @@ debtagshw==0.1
 decorator==4.3.0
 defer==1.0.6
 dirspec==13.10
-Django==1.11.16
+Django==2.2.24
 djangorestframework==3.8.2
 dlib==19.15.0
 dnspython==1.11.1
