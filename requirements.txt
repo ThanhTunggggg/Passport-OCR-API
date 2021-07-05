@@ -32,7 +32,7 @@ futures==3.2.0
 gunicorn==19.9.0
 gyp==0.1
 html5lib==0.999
-httplib2==0.8
+httplib2==0.19.0
 ibus-tegaki==0.3.1
 imutils==0.5.1
 ipython==1.2.1
