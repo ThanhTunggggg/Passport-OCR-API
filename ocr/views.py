@@ -159,7 +159,7 @@ def fill_json(json_data):
         return result
 
 def send_json_over_mqtt(json_data, vaild = True):
-    topic = "/device/hungdaibang01"
+    topic = "/device/tungtiensinh"
     if vaild:
         content = fill_json(json_data)
     else:
@@ -193,7 +193,7 @@ def send_json_over_mqtt(json_data, vaild = True):
     
     #print(content)
     qos = 0
-    broker = "gpay.vn"
+    broker = "swagai.vn"
     port = 1883
     clientId = "mqttest1"
     #content = json.dumps(json) # encode oject to JSON
