@@ -54,7 +54,7 @@ networkx==2.2
 numpy==1.15.1
 oauthlib==0.6.1
 oneconf==0.3.7.14.4.1
-opencv-contrib-python==3.4.2.17
+opencv-contrib-python==4.2.0.32
 paho-mqtt==1.4.0
 PAM==0.4.2
 paramiko==1.10.1
