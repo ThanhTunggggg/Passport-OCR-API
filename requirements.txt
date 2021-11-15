@@ -1,4 +1,4 @@
-pip==19.2
+pip==21.1
 apt-xapian-index==0.45
 apturl==0.4.1ubuntu4
 astroid==1.6.5
