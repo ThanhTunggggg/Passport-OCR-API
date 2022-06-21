@@ -51,7 +51,7 @@ mccabe==0.6.1
 mss==3.2.1
 nemo-emblems==0.0.1
 networkx==2.2
-numpy==1.15.1
+numpy==1.22.0
 oauthlib==0.6.1
 oneconf==0.3.7.14.4.1
 opencv-contrib-python==3.4.2.17
